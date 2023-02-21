@@ -1,5 +1,5 @@
-# Personalizando Banco de Dados
+# Modificação Banco de Dados
 
 ## DESCRIÇÃO:
 
-Neste desafio você irá personalizar o seu banco de dados criando índices e procedures para o cenário de Company e E-commerce.
+Neste desafio você irá criar visões em cima dos dados, além de, realizar modificações com base em ações automatizadas utilizando triggers.
